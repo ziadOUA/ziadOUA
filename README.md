@@ -16,6 +16,8 @@
   <img src="https://img.shields.io/badge/Firefox-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white">
   <img src="https://img.shields.io/badge/Atom-66595C?style=for-the-badge&logo=atom&logoColor=white">
   <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
-  
-  
+
 </p>
+
+![GitHub Snake Light](github-snake.svg#gh-light-mode-only)
+![GitHub Snake dark](github-snake-dark.svg#gh-dark-mode-only)
