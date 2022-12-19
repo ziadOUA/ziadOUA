@@ -34,7 +34,7 @@
     <img src="https://skillicons.dev/icons?i=github">
   </a>
   
-  <img src="https://skillicons.dev/icons?i=html,css,markdown,python,figma,idea,atom">
+  <img src="https://skillicons.dev/icons?i=html,css,markdown,python,figma,idea,atom,git">
   
   <img src="https://github.com/ziadOUA/ziadOUA/blob/output/github-contribution-grid-snake.svg"/>
   
