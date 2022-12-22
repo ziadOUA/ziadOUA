@@ -14,6 +14,7 @@
   </a>
   
   <img height="30px" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Windows/windows2.svg">
+  <img height="30px" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Android/android2.svg">
   <img height="30px" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Firefox/firefox2.svg">
   <img height="30px" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/PyCharm/pycharm2.svg">
   <img height="30px" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Python/python2.svg">
