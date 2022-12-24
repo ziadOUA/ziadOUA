@@ -10,21 +10,21 @@
 <p align="center">
   
   <a href="https://github.com/ziadOUA">
-    <img height="30px" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Github/github1.svg">
+    <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Github/github1.svg">
   </a>
   
-  <img height="30px" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Windows/windows2.svg">
-  <img height="30px" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Android/android2.svg">
-  <img height="30px" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Firefox/firefox2.svg">
-  <img height="30px" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/PyCharm/pycharm2.svg">
-  <img height="30px" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Python/python2.svg">
-  <img height="30px" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/IDEA/idea2.svg">
-  <img height="30px" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/HTML/html2.svg">
-  <img height="30px" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/CSS/css2.svg">
-  <img height="30px" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Markdown/markdown2.svg">
-  <img height="30px" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Figma/figma2.svg">
-  <img height="30px" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Atom/atom2.svg">
-  <img height="30px" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Git/git1.svg">
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Windows/windows2.svg">
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Android/android2.svg">
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Firefox/firefox2.svg">
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/PyCharm/pycharm2.svg">
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Python/python2.svg">
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/IDEA/idea2.svg">
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/HTML/html2.svg">
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/CSS/css2.svg">
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Markdown/markdown2.svg">
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Figma/figma2.svg">
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Atom/atom2.svg">
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Git/git1.svg">
   
 </p>
 
