@@ -26,6 +26,10 @@
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Atom/atom2.svg">
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Git/git1.svg">
   
+  <a href="https://dev.to/ziadoua">
+    <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Devto/devto2.svg">
+  </a>
+  
 </p>
 
 <p align="center">
