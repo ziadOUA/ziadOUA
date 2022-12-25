@@ -30,6 +30,8 @@
     <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Devto/devto2.svg">
   </a>
   
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Spotify/spotify2.svg">
+  
 </p>
 
 <p align="center">
