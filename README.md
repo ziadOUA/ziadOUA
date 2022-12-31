@@ -41,7 +41,5 @@
   
 </p>
 
-![](https://komarev.com/ghpvc/?username=ziadOUA&style=for-the-badge)
-
 *You can find theses badges here : <a href="https://github.com/ziadOUA/m3-Markdown-Badges">ziadOUA/m3-Markdown-Badges</a>*
 
