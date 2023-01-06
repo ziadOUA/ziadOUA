@@ -37,7 +37,7 @@
 
 <p align="center">
 
-  <img src="https://github.com/ziadOUA/ziadOUA/blob/output/github-contribution-grid-snake.svg"/>
+  <img src="https://github.com/ziadOUA/ziadOUA/dist/github-contribution-grid-snake.svg"/>
   
 </p>
 
