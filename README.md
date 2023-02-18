@@ -4,7 +4,6 @@
     
   <img src="https://pictshare.net/cn9y2l.png">
     
-    
 </p>
 
 <p align="center">
@@ -35,6 +34,29 @@
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Audacity/audacity2.svg">
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/VisualStudioCode/visualstudiocode2.svg">
   
+</p>
+
+<p align="center">
+  <a href="https://github.com/ziadOUA/m3-Markdown-Badges">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="res/repo1.png">
+      <source media="(prefers-color-scheme: light)" srcset="res/repo1light.png">
+      <img alt="VSPatch preview" src="res/repo1.png">
+    </picture>
+  </a>
+  <a href="https://unsplash.com/fr/photos/DDIjEwrtAJM">
+    <img alt="Illustration 1" src="res/illustration1.png">
+  </a>
+  <a href="https://unsplash.com/fr/photos/wtKg6L3fLo4">
+    <img alt="Illustration 2" src="res/illustration2.png">
+  </a>
+  <a href="https://github.com/ziadOUA/vscode-patcher-CLI">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="res/repo2.png">
+      <source media="(prefers-color-scheme: light)" srcset="res/repo2light.png">
+      <img alt="Repository 2" src="res/repo2.png">
+    </picture>
+  </a>
 </p>
 
 <p align="center">
