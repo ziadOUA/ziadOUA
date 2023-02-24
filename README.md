@@ -36,6 +36,14 @@
   
 </p>
 
+<a href="https://ziadoua.github.io/">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="res/portfoliodark.png">
+    <source media="(prefers-color-scheme: light)" srcset="res/portfoliolight.png">
+    <img alt="VSPatch preview" src="res/portfoliodark.png">
+  </picture>
+</a>
+
 <br>
 
 <p align="center">
