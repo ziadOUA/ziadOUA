@@ -40,7 +40,7 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="res/portfoliodark.png">
     <source media="(prefers-color-scheme: light)" srcset="res/portfoliolight.png">
-    <img alt="VSPatch preview" src="res/portfoliodark.png">
+    <img alt="Portfolio button" src="res/portfoliodark.png">
   </picture>
 </a>
 
@@ -51,7 +51,7 @@
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="res/repo1.png">
       <source media="(prefers-color-scheme: light)" srcset="res/repo1light.png">
-      <img alt="VSPatch preview" src="res/repo1.png">
+      <img alt="Repository 1" src="res/repo1.png">
     </picture>
   </a>
   <a href="https://unsplash.com/fr/photos/DDIjEwrtAJM">
@@ -69,9 +69,13 @@
   </a>
 </p>
 
-<p align="center">
-
-  <img src="https://github.com/ziadOUA/ziadOUA/blob/output/github-contribution-grid-snake.svg"/>
+<p align="center">  
+    
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/ziadOUA/ziadOUA/blob/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/ziadOUA/ziadOUA/blob/output/github-contribution-grid-snake.svg">
+  <img alt="Github contribution snake animation" src="https://github.com/ziadOUA/ziadOUA/blob/output/github-contribution-grid-snake.svg">
+</picture>
   
 </p>
 
