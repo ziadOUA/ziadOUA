@@ -2,7 +2,7 @@
     
 <!--   <img src="https://pictshare.net/h4fgbc.png"> -->
     
-  <img src="https://i.postimg.cc/7Y0M9ZmH/HEADERPROFILE.png">
+  <img height="500px" src="https://i.postimg.cc/7Y0M9ZmH/HEADERPROFILE.png">
     
 </p>
 
