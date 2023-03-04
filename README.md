@@ -38,9 +38,9 @@
 
 <a href="https://ziadoua.github.io/">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="res/portfoliodark.png">
-    <source media="(prefers-color-scheme: light)" srcset="res/portfoliolight.png">
-    <img alt="Portfolio button" src="res/portfoliodark.png">
+    <source media="(prefers-color-scheme: dark)" srcset="res/portfolioButtonDark.png">
+    <source media="(prefers-color-scheme: light)" srcset="res/portfolioButtonLight.png">
+    <img alt="Portfolio button" src="res/portfolioButtonDark.png">
   </picture>
 </a>
 
