@@ -49,9 +49,9 @@
 <p align="center">
   <a href="https://github.com/ziadOUA/m3-Markdown-Badges">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="res/repo1.png">
-      <source media="(prefers-color-scheme: light)" srcset="res/repo1light.png">
-      <img alt="Repository 1" src="res/repo1.png">
+      <source media="(prefers-color-scheme: dark)" srcset="res/repository1Dark.png">
+      <source media="(prefers-color-scheme: light)" srcset="res/repository1Light.png">
+      <img alt="Repository 1" src="res/repository1Dark.png">
     </picture>
   </a>
   <a href="https://unsplash.com/fr/photos/DDIjEwrtAJM">
@@ -62,9 +62,9 @@
   </a>
   <a href="https://github.com/ziadOUA/vscode-patcher-CLI">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="res/repo2.png">
-      <source media="(prefers-color-scheme: light)" srcset="res/repo2light.png">
-      <img alt="Repository 2" src="res/repo2.png">
+      <source media="(prefers-color-scheme: dark)" srcset="res/repository2Dark.png">
+      <source media="(prefers-color-scheme: light)" srcset="repository2Light.png">
+      <img alt="Repository 2" src="res/repository2Dark.png">
     </picture>
   </a>
 </p>
