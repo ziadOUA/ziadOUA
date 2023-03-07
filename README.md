@@ -14,7 +14,7 @@
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Webstorm/webstorm2.svg">
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/HTML/html2.svg">
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/CSS/css2.svg">
-    <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Javascript/javascript2.svg">
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Javascript/javascript2.svg">
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Markdown/markdown2.svg">
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Figma/figma2.svg">
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Atom/atom2.svg">
@@ -57,7 +57,7 @@
   <a href="https://github.com/ziadOUA/vscode-patcher-CLI">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="res/repository2Dark.png">
-      <source media="(prefers-color-scheme: light)" srcset="repository2Light.png">
+      <source media="(prefers-color-scheme: light)" srcset="res/repository2Light.png">
       <img alt="Repository 2" src="res/repository2Dark.png">
     </picture>
   </a>
