@@ -27,6 +27,8 @@
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Spotify/spotify2.svg">
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Audacity/audacity2.svg">
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/VisualStudioCode/visualstudiocode2.svg">
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Dart/dart2.svg">
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Flutter/flutter2.svg">
   
 </p>
 
