@@ -76,3 +76,5 @@
 
 *You can find theses badges here : <a href="https://github.com/ziadOUA/m3-Markdown-Badges">ziadOUA/m3-Markdown-Badges</a>*
 
+*Thanks for [Pawel Czerwinski](https://unsplash.com/fr/@pawel_czerwinski)'s wallpapers and [Pangram Pangram](https://pangrampangram.com/)'s fonts*
+
