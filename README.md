@@ -32,6 +32,7 @@
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Audacity/audacity2.svg">
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/VisualStudioCode/visualstudiocode2.svg">
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Scratch/scratch2.svg">
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Vercel/vercel2.svg">
   
 </p>
 
