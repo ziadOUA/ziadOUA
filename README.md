@@ -74,7 +74,7 @@
 <br>
 
 <p>
-  <a href="https://github.com/ziadOUA/zCalc"><img src="https://i.postimg.cc/28KHLp0C/ZCALC.png" height="200px" align="left"></a>
+  <a href="https://github.com/ziadOUA/zCalc"><img src="https://i.postimg.cc/4xLmgqyt/ZCALC.png" height="200px" align="left"></a>
   <h1>zCalc</h1>
   📟 A simple and beautiful calculator for Android.
   <br><br>
