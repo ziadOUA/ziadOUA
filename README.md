@@ -52,7 +52,6 @@
   <br><br>
   <p>
     <img src="https://m3-markdown-badges.vercel.app/stars/9/2/ziadoua/m3-markdown-badges">
-    <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Figma/figma2.svg">
     <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Markdown/markdown2.svg">
     <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Vercel/vercel2.svg">
   </p>
@@ -69,7 +68,6 @@
     <img src="https://m3-markdown-badges.vercel.app/stars/9/2/ziadoua/zcard">
     <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Android/android2.svg">
     <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Java/java2.svg">
-    <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/AndroidStudio/androidstudio2.svg">
   </p>
 </p>
 
@@ -84,7 +82,6 @@
     <img src="https://m3-markdown-badges.vercel.app/stars/6/2/ziadoua/zcalc">
     <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Android/android2.svg">
     <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Kotlin/kotlin2.svg">
-    <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/AndroidStudio/androidstudio2.svg">
   </p>
 </p>
 
