@@ -45,27 +45,47 @@
 
 <br>
 
-<p align="center">
-  <a href="https://github.com/ziadOUA/m3-Markdown-Badges">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="res/repository1Dark.png">
-      <source media="(prefers-color-scheme: light)" srcset="res/repository1Light.png">
-      <img alt="Repository 1" src="res/repository1Dark.png">
-    </picture>
-  </a>
-  <a href="https://unsplash.com/fr/photos/DDIjEwrtAJM">
-    <img alt="Illustration 1" src="res/illustration1.png">
-  </a>
-  <a href="https://unsplash.com/fr/photos/wtKg6L3fLo4">
-    <img alt="Illustration 2" src="res/illustration2.png">
-  </a>
-  <a href="https://github.com/ziadOUA/vscode-patcher-CLI">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="res/repository2Dark.png">
-      <source media="(prefers-color-scheme: light)" srcset="res/repository2Light.png">
-      <img alt="Repository 2" src="res/repository2Dark.png">
-    </picture>
-  </a>
+<p>
+  <a href="https://github.com/ziadOUA/m3-Markdown-Badges"><img src="https://i.postimg.cc/rFwVwz5R/badges-preview.png" height="200px" align="left"></a>
+  <h1>m3 Markdown Badges</h1>
+  🏅 A Material You inspired markdown badge collection.
+  <br><br>
+  <p>
+    <img src="https://m3-markdown-badges.vercel.app/stars/9/2/ziadoua/m3-markdown-badges">
+    <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Figma/figma2.svg">
+    <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Markdown/markdown2.svg">
+    <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Vercel/vercel2.svg">
+  </p>
+</p>
+
+<br>
+
+<p>
+  <a href="https://github.com/ziadOUA/zCard"><img src="https://i.postimg.cc/SsDrqKTR/ZCARD.png" height="200px" align="right"></a>
+  <h1>zCard</h1>
+  💳 A simple and beautiful app that stores loyalty, membership and gift cards, instead of carrying them around.
+  <br><br>
+  <p>
+    <img src="https://m3-markdown-badges.vercel.app/stars/9/2/ziadoua/zcard">
+    <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Android/android2.svg">
+    <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Java/java2.svg">
+    <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/AndroidStudio/androidstudio2.svg">
+  </p>
+</p>
+
+<br>
+
+<p>
+  <a href="https://github.com/ziadOUA/zCalc"><img src="https://i.postimg.cc/28KHLp0C/ZCALC.png" height="200px" align="left"></a>
+  <h1>zCalc</h1>
+  📟 A simple and beautiful calculator for Android.
+  <br><br>
+  <p>
+    <img src="https://m3-markdown-badges.vercel.app/stars/6/2/ziadoua/zcalc">
+    <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Android/android2.svg">
+    <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Kotlin/kotlin2.svg">
+    <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/AndroidStudio/androidstudio2.svg">
+  </p>
 </p>
 
 <p align="center">  
@@ -78,7 +98,15 @@
   
 </p>
 
-*You can find theses badges here : <a href="https://github.com/ziadOUA/m3-Markdown-Badges">ziadOUA/m3-Markdown-Badges</a>*
+<p align="center">  
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://i.postimg.cc/KzPKjBNn/footer-Dark.png">
+    <source media="(prefers-color-scheme: light)" srcset="https://i.postimg.cc/C5wRq5P9/footer-Light.png">
+    <img alt="Footer" src="https://i.postimg.cc/KzPKjBNn/footer-Dark.png">
+  </picture>
+</p>
+
+*You can find those badges here : <a href="https://github.com/ziadOUA/m3-Markdown-Badges">ziadOUA/m3-Markdown-Badges</a>*
 
 *Thanks for [Pawel Czerwinski](https://unsplash.com/fr/@pawel_czerwinski)'s wallpapers and [Pangram Pangram](https://pangrampangram.com/)'s fonts*
 
