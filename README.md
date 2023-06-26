@@ -5,7 +5,7 @@
   <img src="https://m3-markdown-badges.vercel.app/stars/6/2/ziadoua/ziadoua">
   
   <a href="https://github.com/ziadOUA">
-    <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Github/github1.svg">
+    <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Github/github2.svg">
   </a>
   
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Windows/windows2.svg">
