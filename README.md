@@ -7,6 +7,10 @@
   <a href="https://github.com/ziadOUA">
     <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Github/github2.svg">
   </a>
+
+  <a href="https://ziadoua.github.io/">
+    <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/MyPortfolio/myportfolio2.svg">
+  </a>
   
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Windows/windows2.svg">
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Android/android2.svg">
@@ -34,9 +38,6 @@
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Scratch/scratch2.svg">
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Vercel/vercel2.svg">
   
-  <a href="https://ziadoua.github.io/">
-    <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/MyPortfolio/myportfolio2.svg">
-  </a>
 </p>
 
 <br>
