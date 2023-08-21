@@ -34,15 +34,10 @@
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Scratch/scratch2.svg">
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Vercel/vercel2.svg">
   
+  <a href="https://ziadoua.github.io/">
+    <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/MyPortfolio/myportfolio2.svg">
+  </a>
 </p>
-
-<a href="https://ziadoua.github.io/">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="res/portfolioButtonDark.png">
-    <source media="(prefers-color-scheme: light)" srcset="res/portfolioButtonLight.png">
-    <img alt="Portfolio button" src="res/portfolioButtonDark.png">
-  </picture>
-</a>
 
 <br>
 
