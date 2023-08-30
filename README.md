@@ -25,7 +25,11 @@
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Markdown/markdown2.svg">
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Figma/figma2.svg">
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Obsidian/obsidian2.svg">
-  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Duolingo/duolingo2.svg">
+
+  <a href="https://duome.eu/ziadOUA">
+    <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Duolingo/duolingo2.svg">
+  </a>
+  
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Git/git2.svg">
   
   <a href="https://dev.to/ziadoua">
