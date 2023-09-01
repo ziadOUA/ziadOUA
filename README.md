@@ -61,7 +61,7 @@
 <br>
 
 <p>
-  <a href="https://github.com/ziadOUA/zCard"><img src="https://i.postimg.cc/SsDrqKTR/ZCARD.png" height="200px" align="right"></a>
+  <a href="https://github.com/ziadOUA/zCard"><img src="https://i.postimg.cc/SsDrqKTR/ZCARD.png" height="200px" align="left"></a>
   <h1>zCard</h1>
   💳 A simple and beautiful app that stores loyalty, membership and gift cards, instead of carrying them around.
   <br><br>
@@ -95,6 +95,8 @@
 </picture>
 <---->
 </p>
+
+<br>
 
 <p align="center">  
   <picture>
