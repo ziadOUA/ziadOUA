@@ -48,21 +48,6 @@
 <br>
 
 <p>
-  <a href="https://github.com/ziadOUA/m3-Markdown-Badges"><img src="https://i.postimg.cc/rFwVwz5R/badges-preview.png" height="200px" align="left"></a>
-  <h1>m3 Markdown Badges</h1>
-  🏅 A Material You inspired markdown badge collection.
-  <br><br>
-  <p>
-    <img src="https://m3-markdown-badges.vercel.app/stars/9/2/ziadoua/m3-markdown-badges">
-    <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Markdown/markdown2.svg">
-    <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Vercel/vercel2.svg">
-  </p>
-</p>
-
-<br>
-<br>
-
-<p>
   <a href="https://github.com/ziadOUA/zCard"><img src="https://i.postimg.cc/SsDrqKTR/ZCARD.png" height="200px" align="left"></a>
   <h1>zCard</h1>
   💳 A simple and beautiful app that stores loyalty, membership and gift cards, instead of carrying them around.
@@ -74,6 +59,21 @@
   </p>
 </p>
 
+<br>
+
+<p>
+  <a href="https://github.com/ziadOUA/m3-Markdown-Badges"><img src="https://i.postimg.cc/GtzzX3ct/MARKDOWNBADGES.png" height="200px" align="left"></a>
+  <h1>m3 Markdown Badges</h1>
+  🏅 A Material You inspired markdown badge collection.
+  <br><br>
+  <p>
+    <img src="https://m3-markdown-badges.vercel.app/stars/9/2/ziadoua/m3-markdown-badges">
+    <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Markdown/markdown2.svg">
+    <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Vercel/vercel2.svg">
+  </p>
+</p>
+
+<br>
 <br>
 
 <p>
