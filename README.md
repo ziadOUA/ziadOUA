@@ -92,6 +92,7 @@
 
 <details>
   <summary>My Holpoin</summary>
+  <br>
   
   [![An image of @ziadoua's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ziadoua)](https://holopin.io/@ziadoua)
 </details>
