@@ -14,6 +14,7 @@
   
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Windows/windows2.svg">
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Android/android2.svg">
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Arch/arch2.svg">
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Firefox/firefox2.svg">
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/PyCharm/pycharm2.svg">
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Python/python2.svg">
@@ -32,7 +33,7 @@
   
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Git/git2.svg">
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Spotify/spotify2.svg">
-  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Audacity/audacity2.svg">
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Tenacity/tenacity2.svg">
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/VisualStudioCode/visualstudiocode2.svg">
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Scratch/scratch2.svg">
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Vercel/vercel2.svg">
