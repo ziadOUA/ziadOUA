@@ -12,7 +12,7 @@
     <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/MyPortfolio/myportfolio2.svg">
   </a>
   
-  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Windows/windows2.svg">
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Windows10/windows102.svg">
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Android/android2.svg">
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Arch/arch2.svg">
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Firefox/firefox2.svg">
