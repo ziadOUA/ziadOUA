@@ -26,11 +26,6 @@
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Markdown/markdown2.svg">
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Figma/figma2.svg">
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Obsidian/obsidian2.svg">
-
-  <a href="https://duome.eu/ziadOUA">
-    <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Duolingo/duolingo2.svg">
-  </a>
-  
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Git/git2.svg">
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Spotify/spotify2.svg">
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Tenacity/tenacity2.svg">
@@ -41,25 +36,13 @@
   
 </p>
 
-<br>
-
-<p>
-  <a href="https://github.com/ziadOUA/zCard"><img src="https://i.postimg.cc/SsDrqKTR/ZCARD.png" height="200px" align="left"></a>
-  <h1>zCard</h1>
-  💳 A simple and beautiful app that stores loyalty, membership and gift cards, instead of carrying them around.
-  <br><br>
-  <p>
-    <img src="https://m3-markdown-badges.vercel.app/stars/9/2/ziadoua/zcard">
-    <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Android/android2.svg">
-    <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Java/java2.svg">
-  </p>
-</p>
+<h3>Featured Projects</h3>
 
 <br>
 
 <p>
   <a href="https://github.com/ziadOUA/m3-Markdown-Badges"><img src="https://i.postimg.cc/GtzzX3ct/MARKDOWNBADGES.png" height="200px" align="left"></a>
-  <h1>m3 Markdown Badges</h1>
+  <h3>m3 Markdown Badges</h3>
   🏅 A Material You inspired markdown badge collection.
   <br><br>
   <p>
@@ -69,39 +52,16 @@
   </p>
 </p>
 
-<br>
-<br>
-
-<p>
-  <a href="https://github.com/ziadOUA/zCalc"><img src="https://i.postimg.cc/4xLmgqyt/ZCALC.png" height="200px" align="left"></a>
-  <h1>zCalc</h1>
-  📟 A simple and beautiful calculator for Android.
-  <br><br>
-  <p>
-    <img src="https://m3-markdown-badges.vercel.app/stars/6/2/ziadoua/zcalc">
-    <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Android/android2.svg">
-    <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Kotlin/kotlin2.svg">
-  </p>
-</p>
-
 <br><br>
 
 <details>
-  <summary>My Holpoin</summary>
+  <summary>
+    <span><a href="#"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Holopin/holopin2.svg"></a></span>
+  </summary>
   <br>
   
   [![An image of @ziadoua's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ziadoua)](https://holopin.io/@ziadoua)
 </details>
-
-<p align="center">  
-<!---- >
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/ziadOUA/ziadOUA/blob/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/ziadOUA/ziadOUA/blob/output/github-contribution-grid-snake.svg">
-  <img alt="Github contribution snake animation" src="https://github.com/ziadOUA/ziadOUA/blob/output/github-contribution-grid-snake.svg">
-</picture>
-<---->
-</p>
 
 <br>
 
